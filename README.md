@@ -6,6 +6,7 @@ There are some teams in our course project:
 * [Team E](https://csci3251-2020.github.io/project-team-e/ 'Team-E') _@rysssbekov_
 * [Team F](https://csci3251-2020.github.io/project-team-f/ 'Team-F') _@yousifm_
 * [Team J](https://csci3251-2020.github.io/project-team-j/ 'Team-J') _@nikunj-cuhk_
+* [Team N](https://csci3251-2020.github.io/project-team-n/ 'Team-N') _@andrewfang21_
 
 For more details, contact @chuckjee regarding course issues.
 
