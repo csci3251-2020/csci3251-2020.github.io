@@ -12,6 +12,7 @@ There are some teams in our course project:
 * [Team N](https://csci3251-2020.github.io/project-team-n/ 'Team-N') _@andrewfang21_
 * [Team P](https://csci3251-2020.github.io/project-team-p/ 'Team-P') _@mattyu122_
 * [Team O](https://csci3251-2020.github.io/project-team-o/ 'Team-O') _@wbsin13469_
+* [Team K](https://csci3251-2020.github.io/project-team-k/ 'Team-k') _@WKL10086_
 
 
 For more details, contact @chuckjee regarding course issues.
