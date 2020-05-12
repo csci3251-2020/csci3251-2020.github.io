@@ -3,6 +3,7 @@ Hello from CUHK CSCI3251! This is another playground for our course students to 
 There are some teams in our course project:
 
 * [Team A](https://csci3251-2020.github.io/project-team-a/ 'Team-A') _@thomplth_
+* [Team C](https://csci3251-2020.github.io/project-team-c/ 'Team-C') _@Vectorial1024_
 * [Team E](https://csci3251-2020.github.io/project-team-e/ 'Team-E') _@rysssbekov_
 * [Team F](https://csci3251-2020.github.io/project-team-f/ 'Team-F') _@yousifm_
 * [Team G](https://csci3251-2020.github.io/project-team-g/ 'Team-G') _@wangruijie21_
